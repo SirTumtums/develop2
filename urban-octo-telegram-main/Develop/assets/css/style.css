@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    /* changes background color of entire body section */
 }
 
 .header {
@@ -13,15 +14,18 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    /* sets the font, color, and background color of main header. */
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    /* sets the font size of the header and how it will be arranged on the page */
 }
 
 .header h1 .seo {
     color: #d9dcd6;
+    /* Changes the color of the "seo" part of the header */
 }
 
 .header div {
@@ -30,24 +34,29 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    /* sets the spacing, font, size, and screen position of the navigation items */
 }
 
 .header div ul {
     list-style-type: none;
+    /* sets how a list of items will be arranged */
 }
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    /* sets how the specified items will be positioned on the screen */
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+    /* being used to color the listed items */
 }
 
 p {
     font-size: 16px;
+    /* sets the font size of anything in the paragraph tag */
 }
 
 .hero {
@@ -57,22 +66,26 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    /* sets the properties for section aside */
 }
 
 .float-left {
     float: left;
     margin-right: 25px;
+    /* being used to position an image from the left side */
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    /* beimg used to position an image from the right side */
 }
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    /* sets how items in the aside will be displayed */
 }
 
 .benefits {
@@ -84,54 +97,64 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    /* sets the properties of the aside block */
 }
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    /* sets the margin and font color of the "lead" section of the benefits */
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    /* sets the margin and font color of the "brand" section of the benefits */
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    /* sets the margin and font color of the "cost" section of the benefits */
 }
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    /* sets parameters for the heading  */
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    /* sets parameters for the heading  */
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    /* sets parameters for the heading  */
 }
 
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    /* parameters for the image about the lead sub section */
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    /* parameters for the image about the brand sub section */
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    /* parameters for the image about the cost sub section */
 }
 
 .search-engine-optimization {
@@ -141,6 +164,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /* paarameters for the link  */
 }
 
 .online-reputation-management {
@@ -150,6 +174,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /* paarameters for the link  */
+
 }
 
 .social-media-marketing {
@@ -159,23 +185,29 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /* paarameters for the link  */
+
 }
 
 .search-engine-optimization img {
     max-height: 200px;
+    /* parameters for the seo img */
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    /* parameters for the online rep mgmt img */
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    /* parameters for the social media marketing img */
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    /* parameters for the search engine optimization header */
 }
 
 .online-reputation-management h2 {
