@@ -24,5 +24,6 @@ This project is being used to make the html code and css understandable ans acce
 ![Css Comments](https://github.com/SirTumtums/develop2/blob/main/assets/images/css-comments.jpg) *Css Comments*
 
 ## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+
+![Completedproject](https://github.com/SirTumtums/develop2/blob/main/assets/images/completedpge.jpg) *Completed page with title and dev tools showing html semantics and alt for images*  
 
