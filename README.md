@@ -27,3 +27,11 @@ This project is being used to make the html code and css understandable ans acce
 
 ![Completedproject](https://github.com/SirTumtums/develop2/blob/main/assets/images/completedpge.jpg) *Completed page with title and dev tools showing html semantics and alt for images*  
 
+# Deployment Status 
+Deployed and in working order.
+
+Deployed site:
+https://sirtumtums.github.io/develop2/
+
+GitHub Repo:
+https://github.com/SirTumtums/develop2
