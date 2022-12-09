@@ -16,7 +16,11 @@ This project is being used to make the html code and css understandable ans acce
 
 ## Visuals
 ![Alt Description Example](https://github.com/SirTumtums/develop2/blob/main/assets/images/altdesc.jpg) *Alt descriptions*
+
+
 ![Semantics Examples](https://github.com/SirTumtums/develop2/blob/main/assets/images/semantics-example.jpg) *Semantic examples*
+
+
 ![Css Comments](https://github.com/SirTumtums/develop2/blob/main/assets/images/css-comments.jpg) *Css Comments*
 
 ## Usage
